@@ -1,0 +1,60 @@
+body {
+	background-color: lightgreen;
+}
+
+h1{
+	text-align: center;
+	color : rgb(255, 255, 255);
+	background-color : rgb(124, 200, 200);
+	border : 1px solid black;
+}
+
+h2{
+	text-align: center;
+	background-color : rgb(80, 65, 146);
+	color : rgb(255,255,255);
+	border : 1px solid black;
+}
+
+h3{
+	color : rgb(13,20,200);
+	border : 1px solid black;
+}
+
+.universe{
+	text-align: center;
+}
+
+.paragraph{
+}
+
+#universeIMG{
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+.table1{
+	text-align : center;
+	border: 1px solid black;
+}
+
+#table{
+	column-width : 20%;
+	margin-left : 25%;
+}
+
+#table1{
+	width : 40%;
+	margin-left : 5%;
+}
+
+#div1{
+	column-count : 2;
+}
+
+#video{
+	margin-left : auto;
+	margin-right : auto;
+	display : block;
+}
